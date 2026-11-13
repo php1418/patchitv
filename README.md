@@ -33,3 +33,4 @@ Aplicación para parchear APKs de YouTube para Android TV, compatibles con el si
 
 Para compilar, abre este proyecto en Android Studio y ejecuta `./gradlew buildAndroid`.trigger-workflow
 trigger-workflow
+workflow-trigger
