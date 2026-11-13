@@ -32,3 +32,4 @@ Aplicación para parchear APKs de YouTube para Android TV, compatibles con el si
 - `patches/` - Guías y scripts de parcheo
 
 Para compilar, abre este proyecto en Android Studio y ejecuta `./gradlew buildAndroid`.trigger-workflow
+trigger-workflow
