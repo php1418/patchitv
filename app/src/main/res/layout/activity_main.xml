@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="YouTube TV Patcher"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#FF0000"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="YouTube TV'ye Turkish dil desteği ekler"
+        android:textSize="16sp"
+        android:textColor="#666666"
+        android:layout_marginBottom="32dp"/>
+
+    <Button
+        android:id="@+id/btnSelectApk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="YouTube TV APK Seç"
+        android:layout_marginBottom="16dp"
+        android:background="#FF0000"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/btnPatch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Parchala"
+        android:layout_marginBottom="16dp"
+        android:background="#FF0000"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:visibility="gone"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="14sp"
+        android:textColor="#333333"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>

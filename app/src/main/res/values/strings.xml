@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouTube TV Patcher</string>
+    <string name="btn_select_apk">YouTube TV APK Seç</string>
+    <string name="btn_patch">Parchala</string>
+    <string name="tv_status">Durum</string>
+    <string name="processing">İşleniyor...</string>
+    <string name="patch_completed">Parcheo completado</string>
+    <string name="patch_failed">Hata en parcheo</string>
+    <string name="microg_required">MicroG-RE gerekli için başlatma oturum</string>
+    <string name="download_microg">MicroG-RE indir</string>
+    
+    <!-- Turkish YouTube TV strings -->
+    <string name="youtube_tv">YouTube TV</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="library">Kütüphane</string>
+    <string name="settings">Ayarlar</string>
+    <string name="search">Ara</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_with_google_account">Google account ile sign in</string>
+    <string name="skip">Atla</string>
+    <string name="continue">Devam et</string>
+    <string name="tv_connected">TV bağlı</string>
+    <string name="sign_in_to_youtube">YouTube'a giris</string>
+</resources>
